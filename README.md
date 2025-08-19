@@ -1,2 +1,2 @@
-# Build_week_01
-WEB_SCRAPING_EDA_SQL
+# Customer Segmentation using Machine Learning algorithm
+
